@@ -1,0 +1,14 @@
+COBRANÇA FÁCIL — HTML, JAVASCRIPT E CSS
+
+Extraia os arquivos e abra index.html no navegador.
+Não precisa de npm, instalação ou script para recriar pastas.
+Todos os arquivos estão na raiz.
+
+index.html: página inicial
+javascript.js: interface e interações, com dependências já incluídas
+style.css: estilos
+favicon.svg: ícone
+
+Esta versão é uma demonstração local dos ambientes Master, Empresa e Cliente.
+Os cadastros e pagamentos demonstrativos ficam somente na sessão e são perdidos ao recarregar.
+Use somente dados fictícios. Login real, banco de dados, PDFs privados e integrações externas dependem do projeto completo com backend/Supabase.

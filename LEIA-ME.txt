@@ -12,3 +12,9 @@ favicon.svg: ícone
 Esta versão é uma demonstração local dos ambientes Master, Empresa e Cliente.
 Os cadastros e pagamentos demonstrativos ficam somente na sessão e são perdidos ao recarregar.
 Use somente dados fictícios. Login real, banco de dados, PDFs privados e integrações externas dependem do projeto completo com backend/Supabase.
+
+ATUALIZAÇÃO — PLANOS
+No Master, abra Planos para criar ou editar mensalidades e planos de teste gratuito.
+Você define a duração entre 1 e 365 dias. Ao cadastrar a empresa, escolha o plano de teste; o término é calculado automaticamente.
+Não há cobrança automática no fim. Contratos existentes mantêm seus valores e prazos.
+As alterações desta demonstração permanecem somente enquanto a página estiver aberta.
